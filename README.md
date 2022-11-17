@@ -1,4 +1,4 @@
-<h1>➡<a href="https://editor.p5js.org/pe-salviano/sketches/LjvHNODUw" target="_blank">ACESSAR JOGO PONG</a>⬅</h1>
+<h1>➡<a href="https://pe-salviano.github.io/javascript-na-web-alura-midi/" target="_blank">ACESSAR ALURA MIDI</a>⬅</h1>
 
 <h2>⚔ Tecnologias Utilizadas</h2>
 
@@ -6,15 +6,16 @@
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
 <p>O Alura Midi foi desenvolvido para aprimorar os meus conhecimentos em JavaScript na web!</p>
-<p><a href="https://editor.p5js.org/pe-salviano/sketches/LjvHNODUw" target="_blank"> Link de acesso ao Alura Midi </a></p>
+<p><a href="https://pe-salviano.github.io/javascript-na-web-alura-midi/" target="_blank"> Link de acesso ao Alura Midi </a></p>
 
 ## Layout
-![Web 1](https://github.com/pe-salviano/logica-javascript-jogo-pong/blob/main/jogoPong.png)
+![Web 1](https://github.com/pe-salviano/javascript-na-web-alura-midi/blob/main/images/alura-midi.png)
 
 
 <div style="display: inline_block">
